@@ -15,6 +15,7 @@ h1 {
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
 .children {
     text-align: left;
     display: inline-block
@@ -26,4 +27,12 @@ h1 {
 
 ul {
     list-style-type: none;
+}
+
+#first-link-on-homepage {
+    color: white;
+}
+
+#first-link-on-homepage:visited {
+    background-color: yellow;
 }
