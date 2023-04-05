@@ -1,0 +1,13 @@
+body {
+    background-color: #16171d;
+    font-family: "PT Serif", sans-serif;
+}
+
+h1 {
+    color: #FFFFFF;
+    font-family: "PT Sans";
+}
+
+.parent {
+    text-align: center;
+}
