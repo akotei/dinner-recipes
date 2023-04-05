@@ -1,5 +1,5 @@
 body {
-    background-color: #16171d;
+    background-color: #AEC6CF;
     font-family: "PT Serif", sans-serif;
 }
 
@@ -12,6 +12,11 @@ h1 {
     text-align: center;
 }
 
-.children > ul {
+.children {
+    text-align: left;
+    display: inline-block
+}
+
+ul {
     list-style-type: none;
 }
